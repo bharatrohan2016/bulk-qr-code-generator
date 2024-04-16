@@ -13,7 +13,7 @@ from PIL import Image
 def qrcode_generator(url):
     # taking image which user wants 
     # in the QR code center
-    Logo_link = 'image-copy.jpg'
+    Logo_link = 'image-copy1.jpg'
 
     logo = Image.open(Logo_link)
 
